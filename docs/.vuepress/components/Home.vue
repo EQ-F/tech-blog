@@ -12,7 +12,7 @@
         width="400px"
         alt=" EQ플은 리그오브레전드 플레이 영상을 기반으로, 유저 간의 플레이 논쟁을
       커뮤니티 투표로 판결하는 웹 서비스입니다."
-        src="https://private-user-images.githubusercontent.com/40623433/494842306-97929ee2-cf7b-4689-a46f-808bdbe6f25c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkwNTM5NzMsIm5iZiI6MTc1OTA1MzY3MywicGF0aCI6Ii80MDYyMzQzMy80OTQ4NDIzMDYtOTc5MjllZTItY2Y3Yi00Njg5LWE0NmYtODA4YmRiZTZmMjVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI4VDEwMDExM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5OGI2OTJiYTQzNWRhZTcyZjkxODhjMTQzNmEzNjNjYWVhZmQ4YjYxMGU3MDg3YzlhNzk1N2QyYjdhODk3NmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CPrgDP33ISBaX4aBRBgV9MKhVsaFlwABrGs2LzDHly4"
+        src="/images/EQF_Logo_1024x507.png"
       />
       <span class="caption">
         EQ플은 리그오브레전드 플레이 영상을 기반으로, 유저 간의 플레이 논쟁을
