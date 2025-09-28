@@ -1,3 +1,17 @@
 # EQ플 기술 블로그
 
 <img width="1024" height="1024" alt="Image" src="https://private-user-images.githubusercontent.com/40623433/494834993-82df7846-2fe4-4128-a391-628e1cef19d8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkwNTE3NTcsIm5iZiI6MTc1OTA1MTQ1NywicGF0aCI6Ii80MDYyMzQzMy80OTQ4MzQ5OTMtODJkZjc4NDYtMmZlNC00MTI4LWEzOTEtNjI4ZTFjZWYxOWQ4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI4VDA5MjQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5YTU3MTIxZWFhZmQxZWI0NWYxOTA0MDdkYzQ4MTBiZDU1ODNkYmZmYjgzMGY0ZDc1MjgzMjAxMTY2OGI0MTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WIof0HbWrIoVt8kVhVj76EgxwWtQ4C2CLe6N8loxvzg" />
+
+## 🚀 실행 방법
+
+개발 환경 설정:
+
+```sh
+ npm i
+```
+
+개발 서버 실행:
+
+```sh
+ npm run docs:dev
+```
