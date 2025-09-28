@@ -1,0 +1,48 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EQ-F/tech-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EQ-F/tech-blog/issues"
+  },
+  "homepage": "https://github.com/EQ-F/tech-blog#readme",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.20",
+    "@vuepress/plugin-append-date": "^2.0.0-rc.82",
+    "@vuepress/plugin-back-to-top": "^1.9.9",
+    "@vuepress/plugin-blog": "^2.0.0-rc.82",
+    "@vuepress/plugin-comment": "^2.0.0-rc.82",
+    "@vuepress/plugin-google-analytics": "^1.9.9",
+    "@vuepress/plugin-last-updated": "^1.9.9",
+    "@vuepress/plugin-markdown-ext": "^2.0.0-rc.82",
+    "@vuepress/plugin-markdown-image": "^2.0.0-rc.82",
+    "@vuepress/plugin-markdown-stylize": "^2.0.0-rc.82",
+    "@vuepress/plugin-prismjs": "^2.0.0-rc.82",
+    "@vuepress/plugin-register-components": "^1.9.10",
+    "@vuepress/plugin-search": "^2.0.0-rc.82",
+    "@vuepress/plugin-shiki": "^2.0.0-rc.82",
+    "@vuepress/plugin-slimsearch": "^2.0.0-rc.82",
+    "@vuepress/theme-default": "^2.0.0-rc.82",
+    "mermaid": "^11.4.1",
+    "sass-embedded": "^1.85.1",
+    "vue": "^3.5.13",
+    "vuepress": "^2.0.0-rc.20",
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-md-enhance": "^2.0.0-rc.74"
+  },
+  "dependencies": {
+    "markdown-it-task-lists": "^2.1.1"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
