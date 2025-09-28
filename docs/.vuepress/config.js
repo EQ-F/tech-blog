@@ -10,6 +10,7 @@ const __dirname = import.meta.dirname || getDirname(import.meta.url);
 export default defineUserConfig({
   title: "EQ플 Tech blog",
   description: "EQ플 Tech blog",
+  base: process.env.NODE_ENV === "production" ? "/tech-blog/" : "/",
   theme: defaultTheme({
     lastUpdatedText: "마지막 수정일",
     contributors: false,
